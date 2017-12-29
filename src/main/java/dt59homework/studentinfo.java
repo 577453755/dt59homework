@@ -2,15 +2,15 @@
  * Project Name:lession1
  * File Name:mnb.java
  * Package Name:lession4
- * Date:2017Äê12ÔÂ23ÈÕÏÂÎç6:07:40
+ * Date:2017å¹´12æœˆ23æ—¥ä¸‹åˆ6:07:40
  * Copyright (c) 2017, bluemobi All Rights Reserved.
  */
 
-package lession4;
+package dt59homework;
 
 /**
  * Description: <br/>
- * Date: 2017Äê12ÔÂ23ÈÕ ÏÂÎç6:07:40 <br/>
+ * Date: 2017å¹´12æœˆ23æ—¥ ä¸‹åˆ6:07:40 <br/>
  * 
  * @author 57745
  * @version
@@ -25,7 +25,7 @@ public class studentinfo {
     int age;
 
     void grade() {
-        System.out.println("¶şÄêÒ»°à");
+        System.out.println("äºŒå¹´ä¸€ç­");
     }
 
     int number() {
@@ -33,6 +33,6 @@ public class studentinfo {
     }
 
     String post() {
-        return "Ğ¡×é³¤";
+        return "å°ç»„é•¿";
     }
 }

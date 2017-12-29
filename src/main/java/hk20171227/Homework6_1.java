@@ -22,15 +22,15 @@ public class Homework6_1 {
 
         Homework6 h = new Homework6();
         h.name = "张";
-        h.KIND = "三";
+        Homework6.KIND = "三";
 
         System.out.println(h.name);
 
-        System.out.println(h.KIND);
+        System.out.println(Homework6.KIND);
 
         System.out.println(h.gatHomework());
 
-        System.out.println(h.gatHomework1());
+        System.out.println(Homework6.gatHomework1());
 
     }
 }

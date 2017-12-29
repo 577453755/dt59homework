@@ -2,15 +2,15 @@
  * Project Name:lession1
  * File Name:student.java
  * Package Name:lession4
- * Date:2017Äê12ÔÂ24ÈÕÉÏÎç11:14:07
+ * Date:2017å¹´12æœˆ24æ—¥ä¸Šåˆ11:14:07
  * Copyright (c) 2017, bluemobi All Rights Reserved.
  */
 
-package lession4;
+package dt59homework;
 
 /**
  * Description: <br/>
- * Date: 2017Äê12ÔÂ24ÈÕ ÉÏÎç11:14:07 <br/>
+ * Date: 2017å¹´12æœˆ24æ—¥ ä¸Šåˆ11:14:07 <br/>
  * 
  * @author 57745
  * @version
@@ -20,25 +20,25 @@ public class student {
     public static void main(String[] args) {
         studentinfo student;
         student = new studentinfo();
-        student.name = "ÕÅÈı";
+        student.name = "å¼ ä¸‰";
         student.height = 172;
         student.age = 120;
-        System.out.println("Ñ§ÉúµÄÃû×Ö£º" + student.name + "\n" + "Éí¸ß£º" + student.height + "cm" + "\n" + "ÌåÖØ£º" + student.age);
+        System.out.println("å­¦ç”Ÿçš„åå­—ï¼š" + student.name + "\n" + "èº«é«˜ï¼š" + student.height + "cm" + "\n" + "ä½“é‡ï¼š" + student.age);
 
         System.out.println();
 
         studentinfo student2;
         student2 = new studentinfo();
-        student2.name = "ÀîËÄ";
+        student2.name = "æå››";
         student2.height = 140;
         student2.age = 280;
-        System.out.println("Ñ§ÉúµÄÃû×Ö£º" + student2.name + "\n" + "Éí¸ß£º" + student2.height + "cm" + "\n" + "ÌåÖØ£º"
+        System.out.println("å­¦ç”Ÿçš„åå­—ï¼š" + student2.name + "\n" + "èº«é«˜ï¼š" + student2.height + "cm" + "\n" + "ä½“é‡ï¼š"
                 + student2.age);
 
         System.out.println();
         student.grade();
-        System.out.println("ËûµÄÑ§ºÅÊÇ" + student.number());
-        System.out.println("ËûÔÚ°à¼¶µÄÖ°Î»ÊÇ" + student.post());
+        System.out.println("ä»–çš„å­¦å·æ˜¯" + student.number());
+        System.out.println("ä»–åœ¨ç­çº§çš„èŒä½æ˜¯" + student.post());
     }
 
 }
