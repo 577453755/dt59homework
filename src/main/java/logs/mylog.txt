@@ -1,0 +1,14 @@
+2018-01-03 15:01:24 [ main:0 ] - [ INFO ] 日志输出
+2018-01-03 15:01:56 [ main:0 ] - [ INFO ] 日志输出
+2018-01-03 15:10:24 [ main:0 ] - [ INFO ] java.util.Scanner[delimiters=\p{javaWhitespace}+][position=5][match valid=true][need input=false][source closed=true][skipped=false][group separator=\,][decimal separator=\.][positive prefix=][negative prefix=\Q-\E][positive suffix=][negative suffix=][NaN string=\Q锟絓E][infinity string=\Q鈭瀄E]
+2018-01-03 15:11:02 [ main:0 ] - [ INFO ] java.util.Scanner[delimiters=\p{javaWhitespace}+][position=4][match valid=true][need input=false][source closed=true][skipped=false][group separator=\,][decimal separator=\.][positive prefix=][negative prefix=\Q-\E][positive suffix=][negative suffix=][NaN string=\Q锟絓E][infinity string=\Q鈭瀄E]
+2018-01-03 15:11:02 [ main:1 ] - [ INFO ] [Ljava.lang.String;@29bbfd3a
+2018-01-03 15:20:15 [ main:0 ] - [ INFO ] java.util.Scanner[delimiters=\p{javaWhitespace}+][position=4][match valid=true][need input=false][source closed=true][skipped=false][group separator=\,][decimal separator=\.][positive prefix=][negative prefix=\Q-\E][positive suffix=][negative suffix=][NaN string=\Q锟絓E][infinity string=\Q鈭瀄E]
+2018-01-03 15:21:21 [ main:0 ] - [ INFO ] java.lang.ArithmeticException: / by zero
+2018-01-03 15:26:01 [ main:0 ] - [ INFO ] java.lang.ArithmeticException: / by zero
+2018-01-03 15:26:27 [ main:0 ] - [ INFO ] java.lang.ArithmeticException: / by zero
+2018-01-03 15:26:49 [ main:0 ] - [ INFO ] java.lang.ArithmeticException: / by zero
+2018-01-03 15:27:33 [ main:0 ] - [ INFO ] java.lang.ArithmeticException: / by zero
+2018-01-03 15:35:10 [ main:0 ] - [ INFO ] java.lang.ArithmeticException: / by zero
+2018-01-03 15:45:10 [ main:0 ] - [ INFO ] 杈撳叆瀛楃涓查暱搴︼細
+2018-01-03 15:45:13 [ main:2612 ] - [ INFO ] java.lang.NullPointerException: 杈撳叆鏈夎
